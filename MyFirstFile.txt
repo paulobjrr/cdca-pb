@@ -1,0 +1,6 @@
+First file of my project.
+
+Testing how GIT works.
+
+First, changing the file.
+
